@@ -22,8 +22,8 @@ playlist ID : **1YQzSpN1WqojjGtVgZK41E**
 
 Towards the end of the code, several data transformations are applied. The 'Duration (ms)' column is converted into 'Duration (minutes)' for better readability. The release year is extracted from the 'Release Date' column to facilitate analysis. Tracks are then categorized into different length groups, such as 'Short,' 'Medium,' 'Long,' and 'Very Long,' based on their duration. Similarly, energy levels are classified into 'Low,' 'Medium,' and 'High' using predefined thresholds. These steps help structure the data for further analysis.
 
-At the end I have used to_csv() method to save dataset to create dashboard  on PowerBI. Feel free to look into my daashboard following the link below.
-[https://app.powerbi.com/view?r=eyJrIjoiNjM1YzFlNWQtOTJiOC00NGQwLWFjZmEtYmE3ZWFiYTcyZjNiIiwidCI6ImE0MzEyNWQxLTBmODktNGZhNC05OWFiLTU0NzRjODlmZGQ0MiIsImMiOjl9]
+At the end I have used to_csv() method to save dataset to create dashboard  on PowerBI. Feel free to check my dashboard from  following the link below.
+[https://www.biharbor.az/portfolios/151]
 
 
 I have uploaded my ipynb file , you can check it for  all details.
